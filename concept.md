@@ -95,6 +95,75 @@ on current (2026) AI image/video tooling:
 better than photoreal does, which favors this project's "realistic
 cartoon" (not fully photorealistic) direction.
 
+## Character Design Reference
+
+Likeness-based character sheet prompts, built from a reference family
+photo, for Step 2 of the AI Production Workflow (Midjourney character
+stills). Each prompt generates a turnaround sheet (front + 3/4 view,
+multiple expressions) to lock the character before any animation step.
+Attach the reference photo as the tool's image-reference input (e.g.
+Midjourney `--cref`) alongside the prompt text; weight it moderately
+(`--cw 50-60`) so the tool captures likeness without copying the
+photo's specific pose/lighting.
+
+**Shared style suffix** (append to every character prompt):
+`realistic cartoon style, semi-stylized 3D animated film look,
+Pixar/DreamWorks-adjacent character design, soft studio lighting, clean
+neutral background, consistent proportions for animation reference
+--cref [reference photo URL] --cw 60 --ar 1:1 --style raw --v 6.1`
+
+### Dad
+> Character turnaround sheet, front view and 3/4 view, warm open smile
+> and neutral expressions, Black man, medium-brown skin tone, trimmed
+> full beard and mustache, short dark hair, broad friendly build,
+> wearing a navy baseball cap and a casual white button-up shirt with
+> sleeves rolled to the forearm — [shared style suffix]
+
+### Mum
+> Character turnaround sheet, front view and 3/4 view, warm composed
+> smile and neutral expressions, East Asian woman, fair-medium skin
+> tone, black hair pulled back with a black bow, slim build, wearing a
+> black and white striped short-sleeve top and high-waisted jeans with a
+> brown belt — [shared style suffix]
+
+### Daughter, 8
+> Character turnaround sheet, front view and 3/4 view, playful knowing
+> smile and neutral expressions, mixed-heritage girl, curly medium-length
+> dark brown hair, warm brown skin tone, wearing a black headband and a
+> cream cardigan over a striped top — [shared style suffix, child
+> proportions]
+
+### Son, 6
+> Character turnaround sheet, front view and 3/4 view, focused deadpan
+> expression and neutral expression, mixed-heritage boy, curly dark
+> brown hair, light-medium brown skin tone, wearing a striped button-up
+> shirt open over a plain cream tee — [shared style suffix, child
+> proportions]
+
+### Baby boy, 1
+> Character turnaround sheet, front view and 3/4 view, curious wide-eyed
+> expression and neutral expression, mixed-heritage baby boy, soft curly
+> dark hair, round cheeks, light-medium brown skin tone, wearing a
+> simple cream outfit — [shared style suffix, toddler proportions]
+
+### Full family group reference
+> Full family group portrait, Montserratian father, Cantonese mother,
+> mixed-heritage daughter (8), son (6), and baby boy (1), warm candid
+> family pose, soft evening lighting, London rooftop/garden setting,
+> consistent character designs matching the individual character sheets
+> above — realistic cartoon style, semi-stylized 3D animated film look,
+> Pixar/DreamWorks-adjacent, --cref [reference photo URL] --cw 50
+> --ar 3:2 --style raw --v 6.1
+
+**Note:** everyday "signature looks" above (cap/beard for Dad, hair bow
+for Mum, headband for Daughter, striped layering for Son) are meant to
+recur across episodes as default outfits, distinct from the family
+photo's one-off special-occasion clothing — this keeps character
+recognition strong without requiring the exact photographed outfit every
+time. Since the reference photo is a real private family photo, keep it
+to personal/private uploads in whichever tool is used, per that tool's
+terms.
+
 ## Episode Scripts
 
 Draft scripts, ~2 minutes each, broken into beats so each beat maps to
@@ -175,6 +244,7 @@ one AI-generated clip in the production pipeline above.
 
 ## Open Items / Next Steps
 
-All creative and production decisions are locked. Remaining work is
-production itself: build the character sheets, generate the shot clips,
-and assemble the first episode.
+All creative and production decisions are locked, including likeness-
+based character design prompts. Remaining work is production itself:
+generate the character sheet stills, generate the shot clips, and
+assemble the first episode.
