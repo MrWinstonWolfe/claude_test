@@ -92,9 +92,53 @@ on current (2026) AI image/video tooling:
 better than photoreal does, which favors this project's "realistic
 cartoon" (not fully photorealistic) direction.
 
+## Episode Scripts
+
+Draft scripts, ~2 minutes each, broken into beats so each beat maps to
+one AI-generated clip in the production pipeline above.
+
+### Episode 1: "Goat Water Congee"
+**Well:** Food fusion
+**Logline:** Dad tries to doctor Mum's congee with his goat water seasoning while she's out — chaos and an unexpected family hit follow.
+
+| Beat | Shot | Dialogue/Action |
+|---|---|---|
+| 1 (0:00-0:15) | Kitchen, morning. Mum's pot of congee simmers on the stove. Dad peers in, sniffs, unimpressed. | **Dad:** "Dis need a lickle something." *(pulls out his goat water spice jar)* |
+| 2 (0:15-0:35) | Dad dumps a generous spoon in, stirs, tastes, nods proudly. Son (6) wanders in, curious. | **Son:** "Daddy, what you doing to Mummy's food?" **Dad:** "Making it better, bredda. Don't tell." |
+| 3 (0:35-0:55) | Daughter (8) walks in, sees the jar, immediately looks worried — she knows what's coming. | **Daughter:** *(to camera, deadpan)* "He does this every time. It's never once worked." |
+| 4 (0:55-1:20) | Mum returns, suspicious sniff at the door, walks to the pot. Whole family freezes. She tastes it. Long pause. | **Mum:** *(unreadable face)* ... |
+| 5 (1:20-1:45) | Mum takes a second spoonful. Then a third. Family exhales. | **Mum:** "...Don't tell your grandmother I put scotch bonnet in congee." **Dad:** *(triumphant)* "SEE?!" |
+| 6 (1:45-2:00) | Baby boy bangs spoon on highchair tray, demanding more. Freeze frame / title card. | **Daughter:** *(to camera)* "Okay. Once." |
+
+### Episode 2: "Two Patron Saints"
+**Well:** Holiday mashup
+**Logline:** The family preps for a mashed-up St. Patrick's Day (Montserrat) and Lunar New Year that land in the same week — decorations collide.
+
+| Beat | Shot | Dialogue/Action |
+|---|---|---|
+| 1 (0:00-0:15) | Living room. Dad hangs shamrock bunting on one wall. Mum, on a ladder, hangs red lanterns on the other. | **Dad:** "Montserrat flag AND a shamrock, every year, no questions." **Mum:** "Lanterns go higher than the shamrocks." |
+| 2 (0:15-0:40) | Son holds up two outfits — a green shirt and a red one — totally lost. | **Son:** "Which one am I wearing?" **Dad + Mum (in unison):** "BOTH." |
+| 3 (0:40-1:05) | Daughter, to camera, holding a red envelope with a shamrock drawn on it in marker. | **Daughter:** "I made my own hybrid. Lucky money AND luck of the Irish. I'm covered." |
+| 4 (1:05-1:35) | Family sits for dinner — goat water stew next to a plate of nian gao (rice cake). Dad raises a glass. | **Dad:** "To Montserrat and to the Year of—" **Mum:** "The Snake." **Dad:** "—the Snake! Even though we chased them out of Ireland." |
+| 5 (1:35-2:00) | Baby boy grabs a lantern and a tiny shamrock decoration, holds both up, delighted. Freeze frame. | *(No dialogue — just chaos and a laugh track beat.)* |
+
+### Episode 3: "Wrong Language, Right Moment"
+**Well:** Language mix-ups
+**Logline:** Son accidentally greets a visiting Cantonese-speaking relative in patois-accented Cantonese — and it somehow lands perfectly.
+
+| Beat | Shot | Dialogue/Action |
+|---|---|---|
+| 1 (0:00-0:15) | Doorbell rings. Mum, mildly panicked, straightens things. | **Mum:** "That's your Por Por's cousin. Everyone — best behavior, best Cantonese." |
+| 2 (0:15-0:35) | Son practices a Cantonese greeting under his breath, but it comes out with a thick patois lilt. | **Son:** *(muttering, rehearsing)* "Nei... nei hou... wah gwan..." |
+| 3 (0:35-1:00) | Door opens. Elderly relative steps in. Son blurts his greeting — it comes out an odd blend, confident and completely wrong-sounding. | **Son:** *(loud, proud)* "WAH GWAN, POR POR COUSIN!" |
+| 4 (1:00-1:30) | Stunned silence. Daughter winces off to the side. Then the relative BURSTS out laughing, delighted. | **Relative:** *(laughing, in Cantonese/subtitled)* "This child has invented a new dialect!" |
+| 5 (1:30-2:00) | Mum, relieved and amused, ruffles Son's hair. Dad in the background, smug. | **Mum:** "...Somehow that worked." **Dad:** *(to camera)* "Montserrat-Cantonese. Officially a language now." |
+
 ## Open Items / Next Steps
 
 - Finalize a series title (currently untitled; "Two Spice Household" was
   a placeholder, not locked in).
 - Decide exact diaspora city setting (Toronto / NYC / London).
-- Draft specific episode scripts (2-min setup → payoff format).
+- Draft additional episode scripts for the remaining story wells
+  (parenting style clashes, extended family visits, kids explaining the
+  household).
