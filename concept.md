@@ -1,4 +1,4 @@
-# TikTok Series Concept: Multicultural Family (Montserratian + Cantonese)
+# "Three Kids, Two Cultures" — TikTok Series Concept (Montserratian + Cantonese Family)
 
 ## Overview
 
@@ -175,5 +175,6 @@ one AI-generated clip in the production pipeline above.
 
 ## Open Items / Next Steps
 
-- Finalize a series title (currently untitled; "Two Spice Household" was
-  a placeholder, not locked in).
+All creative and production decisions are locked. Remaining work is
+production itself: build the character sheets, generate the shot clips,
+and assemble the first episode.
