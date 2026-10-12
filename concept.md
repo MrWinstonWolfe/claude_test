@@ -278,6 +278,51 @@ one AI-generated clip in the production pipeline above.
 | 4 (1:10-1:40) | Friend eats it, eyes water instantly, but she nods bravely. Mum appears from nowhere, studying her face intensely. | **Mum:** *(squinting)* "...She's being polite. I like her." |
 | 5 (1:40-2:00) | Friend, slightly shellshocked but delighted, turns to Daughter. Son runs past yelling something in half-Cantonese-half-patois. Freeze frame. | **Friend:** "This is the best house I've ever been in." **Daughter:** *(to camera, proud)* "Told you." |
 
+## Posting & Release Strategy
+
+**Cadence:** Start at 1 episode per week, same day/time each week (e.g.
+Sunday evening) — AI-generated 2-min episodes take real production time
+per the pipeline above, so weekly is sustainable without burning out
+before the series finds its footing. Revisit increasing frequency once
+production speed is proven out.
+
+**Posting time:** General TikTok best practice favors evening uploads
+(roughly 6-9pm local) when engagement is highest — a starting point to
+test and adjust once there's account-specific data.
+
+**Launch order:** Lead with **Episode 6, "How Do I Even Explain This"**
+— it doubles as a natural "meet the family" cold open (the daughter
+literally briefs her friend on the household), so new viewers get the
+whole premise without a separate explainer video. Follow with Episode 1
+("Goat Water Congee") as episode 2 — food content is highly shareable
+and a strong early hook.
+
+**Captions:** Short, conversational, end with a soft question or hook to
+drive comments (e.g. "Which parent would you side with here?"). Avoid
+over-explaining the joke in the caption — let the video land it.
+
+**Hashtag framework:**
+- Branded (every post): `#ThreeKidsTwoCultures` — builds a searchable
+  library of the series.
+- Niche community: `#CaribbeanChinese` `#MixedFamily`
+  `#MulticulturalFamily`
+- Broad reach: `#FamilyTikTok` `#LondonFamily`
+
+**Pinned comment:** On each video, pin a short comment clarifying it's a
+scripted/animated comedy series (not a documentary of a real family),
+since the character designs are drawn from a real likeness reference —
+keeps audience expectations clear without needing an in-video
+disclaimer.
+
+**Cross-posting:** Mirror each episode to Instagram Reels and YouTube
+Shorts same-day — the format (2-min, vertical, self-contained) travels
+well across all three with no edits needed.
+
+**Review cadence:** After the first 4-6 episodes, review completion/
+watch-through rate per episode to see which story wells land best, and
+weight future episodes toward what's working rather than sticking
+rigidly to the original 6-well rotation.
+
 ## Open Items / Next Steps
 
 All creative and production decisions are locked, including likeness-
