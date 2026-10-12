@@ -134,11 +134,44 @@ one AI-generated clip in the production pipeline above.
 | 4 (1:00-1:30) | Stunned silence. Daughter winces off to the side. Then the relative BURSTS out laughing, delighted. | **Relative:** *(laughing, in Cantonese/subtitled)* "This child has invented a new dialect!" |
 | 5 (1:30-2:00) | Mum, relieved and amused, ruffles Son's hair. Dad in the background, smug. | **Mum:** "...Somehow that worked." **Dad:** *(to camera)* "Montserrat-Cantonese. Officially a language now." |
 
+### Episode 4: "The Discipline Summit"
+**Well:** Parenting style clashes
+**Logline:** Son gets in trouble at school for trading his lunch — Dad wants to let it slide, Mum wants a "proper talk," and the two styles collide in front of the kid.
+
+| Beat | Shot | Dialogue/Action |
+|---|---|---|
+| 1 (0:00-0:15) | Living room, evening. Son sits on the couch, head down. Mum and Dad stand over him, exchanging a look. | **Mum:** "He traded his lunch. For the THIRD time." **Dad:** "So? Boy was just doing business." |
+| 2 (0:15-0:40) | Mum crosses her arms, unimpressed. Dad shrugs, very relaxed. | **Mum:** "There is a *process*. We sit him down, we explain consequences, we—" **Dad:** "Or. We let him keep the five dollars he made." |
+| 3 (0:40-1:05) | Son's eyes light up at "five dollars." Daughter, watching from the stairs, mouths "oh no" to camera. | **Son:** *(perking up)* "Wait, I get to KEEP it?" **Mum:** *(sharp look at Dad)* "Absolutely not." |
+| 4 (1:05-1:35) | Mum and Dad huddle, whispering intensely, clearly negotiating. Son watches, swinging his legs, unbothered. | **Dad:** *(whispering)* "Okay, fine — he keeps HALF, and he never does it again." **Mum:** *(whispering)* "...Deal." |
+| 5 (1:35-2:00) | They turn back to Son with a unified "stern" face that immediately cracks. Son grins, knowing he won. Freeze frame. | **Mum + Dad (together):** "Don't do it again." **Son:** *(to camera)* "I'm doing it again." |
+
+### Episode 5: "Auntie Has Notes"
+**Well:** Extended family visits
+**Logline:** An unannounced visit from Dad's sister turns into a running commentary on literally everything in the house, Cantonese side included.
+
+| Beat | Shot | Dialogue/Action |
+|---|---|---|
+| 1 (0:00-0:15) | Doorbell. Mum opens it to find Auntie already mid-sentence, rolling a suitcase in. | **Auntie:** "I'm only staying three days — why is the furniture facing THIS way?" |
+| 2 (0:15-0:40) | Auntie walks through the house, touching things, narrating critiques. Mum trails her, forcing a smile. | **Auntie:** "Goat water needs more thyme. Also — lanterns too low, bad feng shui, I can feel it." |
+| 3 (0:40-1:05) | Daughter, cornered in the hallway by Auntie, gets hit with rapid-fire observations. | **Auntie:** "You've grown. You're too thin. Eat more. Also your Cantonese accent needs work, no offense." |
+| 4 (1:05-1:35) | Dad, overhearing from the kitchen, mouths "I'm sorry" to Mum across the room. Mum mouths back "three days" like a countdown. | *(No dialogue — just panicked eye contact.)* |
+| 5 (1:35-2:00) | Auntie sits, suddenly completely at ease, sipping tea like nothing happened. Baby boy crawls up to her, and she melts instantly. | **Auntie:** *(voice totally different, soft)* "There's my favorite." **Daughter:** *(to camera)* "She's actually the best. Don't tell her I said that." |
+
+### Episode 6: "How Do I Even Explain This"
+**Well:** Kids explaining the household
+**Logline:** Daughter's friend comes over for the first time and needs a full briefing before she's allowed to understand anything happening in the house.
+
+| Beat | Shot | Dialogue/Action |
+|---|---|---|
+| 1 (0:00-0:15) | Front yard. Daughter stops her friend before they walk in, hand up like she's about to give a safety briefing. | **Daughter:** "Okay, before we go in — a few things you need to know." |
+| 2 (0:15-0:45) | Quick cuts as Daughter counts off on her fingers, friend's eyes widening with each point. | **Daughter:** "One: we celebrate everything twice. Two: my dad will try to feed you something spicy and call it love. Three: my mum can tell if you're lying by your face." |
+| 3 (0:45-1:10) | They step inside. Dad immediately appears with a plate. Friend looks at Daughter, panicked. | **Dad:** "Try this." **Friend:** *(whispering to Daughter)* "Is this the spicy thing?" **Daughter:** "Just smile and say thank you." |
+| 4 (1:10-1:40) | Friend eats it, eyes water instantly, but she nods bravely. Mum appears from nowhere, studying her face intensely. | **Mum:** *(squinting)* "...She's being polite. I like her." |
+| 5 (1:40-2:00) | Friend, slightly shellshocked but delighted, turns to Daughter. Son runs past yelling something in half-Cantonese-half-patois. Freeze frame. | **Friend:** "This is the best house I've ever been in." **Daughter:** *(to camera, proud)* "Told you." |
+
 ## Open Items / Next Steps
 
 - Finalize a series title (currently untitled; "Two Spice Household" was
   a placeholder, not locked in).
 - Decide exact diaspora city setting (Toronto / NYC / London).
-- Draft additional episode scripts for the remaining story wells
-  (parenting style clashes, extended family visits, kids explaining the
-  household).
