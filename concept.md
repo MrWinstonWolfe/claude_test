@@ -17,8 +17,11 @@ not caricature of either side.
 - **Episode format:** ~2 minute mini-stories per episode, each with a
   clear setup → payoff structure (more room than a quick 15-30s gag for
   actual dialogue and small story arcs).
-- **Setting:** A diaspora city with real-world plausibility for this
-  pairing (e.g. Toronto, NYC, or London).
+- **Setting:** London. A strong real-world fit — after the mid-1990s
+  Soufrière Hills volcanic eruption, many Montserratians relocated to the
+  UK (holding British citizenship as a UK Overseas Territory), and London
+  has long-established Chinese communities as well. Plausible without
+  needing exposition.
 
 ## Cast
 
@@ -174,4 +177,3 @@ one AI-generated clip in the production pipeline above.
 
 - Finalize a series title (currently untitled; "Two Spice Household" was
   a placeholder, not locked in).
-- Decide exact diaspora city setting (Toronto / NYC / London).
