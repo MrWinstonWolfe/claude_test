@@ -164,6 +164,42 @@ time. Since the reference photo is a real private family photo, keep it
 to personal/private uploads in whichever tool is used, per that tool's
 terms.
 
+## Title Card & Intro Format
+
+Kept lightweight since TikTok retention drops fast if the first few
+seconds aren't the hook itself.
+
+**Logo concept:** two overlapping circles (Venn-diagram style) — one in
+a warm Caribbean gold/orange, one in Chinese red/gold — overlapping in
+the middle in a blended warm amber tone. Reads as "two cultures, one
+family" without using either side's actual flag, keeping the focus on
+the family rather than a national statement.
+
+**Palette:** warm amber/gold as the shared anchor color (bridges
+Caribbean sunset tones and Chinese red-gold lucky-color associations),
+with cream/off-white as a neutral background.
+
+**Typography:** rounded, friendly sans-serif for "Three Kids, Two
+Cultures" — legible at small TikTok sizes, no serif/formal fonts, keeps
+the warm family-sitcom feel.
+
+**Mark placement:** a small persistent logo bug in a corner throughout
+the episode, rather than a big static title screen.
+
+**Intro sequence (per episode):**
+1. **0:00–0:01 — Quick logo sting.** The two circles snap together with
+   a soft "pop" sound and a brief text flash of the series name. Under a
+   second — a brand flag, not a pause.
+2. **0:01 onward — straight into the episode's first beat.** No recap,
+   no character-intro card each time; the show should always read as
+   "mid-conversation," like a real sitcom.
+3. **Episode title as on-screen text overlay**, small, top or bottom
+   corner, fading in/out during the first 2-3 seconds — doesn't block
+   the hook, but gives the clip a title for sharing/screen-recording.
+4. **End card:** reuse each episode's existing freeze-frame final beat,
+   then a 1-second outro card — logo + "Follow for more" + episode
+   number. Consistent close without eating into watch-through rate.
+
 ## Episode Scripts
 
 Draft scripts, ~2 minutes each, broken into beats so each beat maps to
